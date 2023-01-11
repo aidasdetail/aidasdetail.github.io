@@ -10,7 +10,7 @@
                 <button class="search-btn">search</button>
             </div>
             <a href="#"><img src="img/1.png" alt=""></a>
-            <a href="#"><img src="img/3.png" alt=""></a>
+            <a href="#"><img src="img/wish_list_transp.png" alt=""></a>
         </div>
     </div>
     <ul class="links-container">
