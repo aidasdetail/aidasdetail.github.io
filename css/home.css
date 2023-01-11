@@ -24,6 +24,15 @@
     text-transform: capitalize;
     font-size: 35px;
     font-weight: 300;
+    text-shadow: 
+        -1px -1px 0px #FF0066,
+         0px -1px 0px #FF0066,
+         1px -1px 0px #FF0066,
+        -1px  0px 0px #FF0066,
+         1px  0px 0px #FF0066,
+        -1px  1px 0px #FF0066,
+         0px  1px 0px #FF0066,
+         1px  1px 0px #FF0066;
 }
 
 /* product*/
