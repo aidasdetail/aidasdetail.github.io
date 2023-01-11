@@ -1,8 +1,8 @@
  const createNav = () => {
-   let nav = document.querySelector(".navbar");
+   let nav = document.querySelector('.navbar');
    
    nav.innerHTML = '
-   <div class="nav">
+    <div class="nav">
     <img src="img/Logo.png" class="brand-logo" alt="">
     <div class="nav-items">
         <div class="search">
@@ -12,7 +12,7 @@
         <a href="#"><img src="img/1.png" alt=""></a>
         <a href="#"><img src="img/3.png" alt=""></a>
     </div>
-</div>
+ </div>
     
     <ul class="links-container">
         <li class="link-item"><a href="#" class="link">home</a></li>
