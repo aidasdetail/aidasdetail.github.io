@@ -1,8 +1,8 @@
  const createNav = () => {
    let nav = document.querySelector('.navbar');
    
-   nav.innerHTML = '
-    <div class="nav">
+   nav.innerHTML = `
+   <div class="nav">
     <img src="img/Logo.png" class="brand-logo" alt="">
     <div class="nav-items">
         <div class="search">
@@ -21,7 +21,7 @@
         <li class="link-item"><a href="#" class="link">kids</a></li>
         <li class="link-item"><a href="#" class="link">accessories</a></li>
     </ul>
-    ';
+    `;
  }
  
  createNav();
