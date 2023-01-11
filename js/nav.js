@@ -15,10 +15,9 @@
     </div>
     <ul class="links-container">
         <li class="link-item"><a href="#" class="link">home</a></li>
-        <li class="link-item"><a href="#" class="link">women</a></li>
-        <li class="link-item"><a href="#" class="link">men</a></li>
-        <li class="link-item"><a href="#" class="link">kids</a></li>
-        <li class="link-item"><a href="#" class="link">accessories</a></li>
+        <li class="link-item"><a href="#" class="link">festival sets</a></li>
+        <li class="link-item"><a href="#" class="link">summer tops</a></li>
+        <li class="link-item"><a href="#" class="link">cardigans</a></li>
     </ul>
     `;
  }
