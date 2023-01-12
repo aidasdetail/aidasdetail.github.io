@@ -176,7 +176,7 @@
 
 .pre-btn img, .nxt-btn img{
     height: 40px;
-    opacity: 0.2;
+    opacity: 0.5;
 }
 
 .pre-btn:hover img, .nxt-btn:hover img{
