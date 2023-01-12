@@ -160,7 +160,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: black;
     background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #fff 100%);
     cursor: pointer;
     z-index: 8;
