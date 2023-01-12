@@ -15,7 +15,7 @@
 }
 
 .nav{
-    padding: 15px 10vw; /*original: 10px 10vw*/
+    padding: 5px 10vw; /*original: 10px 10vw*/
     display: flex;
     justify-content: space-between;
 }
