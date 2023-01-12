@@ -4,7 +4,8 @@
 .hero-section{
     width: 100%;
     height: calc(100vh - 240px); /*it was 120 for full page header*/
-    background-image: url('../img/Welcome_img.png');
+    background-image: url('../img/Welcome_img_2.png');
+    opacity: 0.5;
     background-size: cover;
     display: flex;
     justify-content: center;
