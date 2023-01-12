@@ -43,8 +43,8 @@ const createFooter = () => {
             <a href="#" class="social-link">privacy page</a>
         </div>
         <div>
-            <a href="#" class="social-link">instagram</a>
-            <a href="#" class="social-link">facebook</a>
+            <a href="https://www.instagram.com/aidas_detail/" target=”_blank” class="social-link">instagram</a>
+            <a href="https://www.facebook.com/profile.php?id=100083538723957" target="_blank" class="social-link">facebook</a>
         </div>
     </div>
     <p class="footer-credit">Aida's Detail Crochet Shop</p>
