@@ -3,7 +3,7 @@
 
 .hero-section{
     width: 100%;
-    height: calc(100vh - 160px); /*it was 120*/
+    height: calc(100vh - 180px); /*it was 120*/
     background-image: url('../img/Welcome_img.png');
     background-size: cover;
     display: flex;
