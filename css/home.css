@@ -5,7 +5,6 @@
     width: 100%;
     height: calc(100vh - 240px); /*it was 120 for full page header*/
     background-image: url('../img/Welcome_img_2.png');
-    opacity: 0.5;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -16,6 +15,7 @@
     height: 200px;
     display: block;
     margin: auto;
+    opacity: 1;
 }
 
 .hero-section .sub-heading{
@@ -23,6 +23,7 @@
     text-align: center;
     color: #FFFFFF;
     text-transform: capitalize;
+    opacity: 1;
     font-size: 35px;
     font-weight: 300;
     text-shadow: 
