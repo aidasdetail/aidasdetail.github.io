@@ -90,7 +90,7 @@
     border-radius: 50%;
     margin: 8px; /* original 10px*/
     margin-left: 0;
-    line-height: 60px; /* has to be the same as width or height*/
+    line-height: 58px; /* has to be the same as width or height*/
     text-transform: uppercase;
     color: #383838;
     cursor: pointer;
