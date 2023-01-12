@@ -175,6 +175,7 @@
 }
 
 .pre-btn img, .nxt-btn img{
+    height: 8px;
     opacity: 0.2;
 }
 
