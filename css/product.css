@@ -51,10 +51,10 @@
 }
 
 .product-images img.arrow-left {
-    height: 20px;
+    height: 10px;
     position: absolute;
     left: 0px;
-    bottom: 30px;
+    bottom: 20px;
   }
 
 .details{
@@ -95,6 +95,12 @@
     font-size: 25px; /* original 30px*/
     text-transform: uppercase;
     margin: 60px 0 10px;
+    font-weight: 300;
+}
+.product-subsub-heading{
+    font-size: 15px; /* original 30px*/
+    /*text-transform: uppercase;*/
+    margin: 10px 0 10px;
     font-weight: 300;
 }
 
@@ -139,7 +145,7 @@
 }
 
 .detail-des{
-    margin-top: 50px; /* added */
+    margin-top: 60px; /* added */
     padding: 0 10vw;  
     text-transform: capitalize;
 }
