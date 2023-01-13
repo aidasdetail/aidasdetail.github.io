@@ -129,13 +129,14 @@
 }
 
 .detail-des{
-    padding: 0 10vw;
+    margin-top: 100px;
+    /*padding: 0 10vw;  original */
     text-transform: capitalize;
 }
 
 .heading{
     font-size: 30px;
-    margin-bottom: 100px; /* original 30px */
+    margin-bottom: 30px; /* original 30px */
 }
 
 .des{
