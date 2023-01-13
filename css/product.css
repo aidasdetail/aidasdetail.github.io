@@ -6,11 +6,11 @@
 }
 
 .image-slider{
-    width: 500px; /* original 500px */
+    width: 650px; /* original 500px */
     height: 700px; /* original 500px */
     position: relative;
     background-image: url('../img/Kiwi_top_green_1.jpg');
-    background-size: 100%; /* original cover   500px*/
+    background-size: 500px; /* original cover   500px*/
 }
 
 .product-images{
