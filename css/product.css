@@ -129,8 +129,8 @@
 }
 
 .detail-des{
-    margin-top: 100px;
-    /*padding: 0 10vw;  original */
+    margin-top: 100px; /* added */
+    padding: 0 10vw;  
     text-transform: capitalize;
 }
 
