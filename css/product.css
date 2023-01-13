@@ -11,6 +11,7 @@
     position: relative;
     background-image: url('../img/Kiwi_top_green_1.jpg');
     background-position: center; /* added */
+    background-repeat: no-repeat; /* added */
     /*background-size: 500px;  original cover   500px + 700  and background 500*/
 }
 
