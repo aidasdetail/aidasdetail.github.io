@@ -8,8 +8,8 @@
 .image-slider{
     width: 500px;
     height: 500px;
-    margin: auto;   /*ADDED could also try display: flex;
-    justify-content: center;*/
+    display: flex;
+    justify-content: center;   /*ADDED */
     position: relative;
     background-image: url('../img/Kiwi_top_green_1.jpg');
     background-size: cover;
