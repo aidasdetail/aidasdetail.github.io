@@ -49,6 +49,13 @@
     opacity: 0.5;
 }
 
+.arrow-left {
+    height: 10px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+  }
+
 .details{
     width: 40%; /* original 50% */
 }
