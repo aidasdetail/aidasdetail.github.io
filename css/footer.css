@@ -13,7 +13,7 @@ footer{
 }
 
 .footer-content .logo{
-    height: 120px;
+    height: 100px;
 }
 
 .footer-ul-container{
@@ -55,7 +55,7 @@ footer{
 }
 
 .footer-title{
-    margin-top: 40px; /* original 80px */
+    margin-top: 30px; /* original 80px */
     color: #fff;
 }
 
