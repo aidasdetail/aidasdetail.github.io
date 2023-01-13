@@ -7,11 +7,11 @@
 
 .image-slider{
     width: 500px; /* original 500px */
-    height: 700px; /* original 500px */
+    height: 500px; /* original 500px */
     position: relative;
     background-image: url('../img/Kiwi_top_green_1.jpg');
     background-position: center; /* added */
-    background-size: 500px; /* original cover   500px + 700  and background 500*/
+    /*background-size: 500px;  original cover   500px + 700  and background 500*/
 }
 
 .product-images{
