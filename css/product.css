@@ -6,8 +6,8 @@
 }
 
 .image-slider{
-    width: auto; /* original 500px */
-    height: 350px; /* original 500px */
+    width: 400px; /* original 500px */
+    height: auto; /* original 500px */
     position: relative;
     background-image: url('../img/Kiwi_top_green_1.jpg');
     background-position: center; /* added */
