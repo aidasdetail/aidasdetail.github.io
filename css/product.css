@@ -6,7 +6,7 @@
 }
 
 .image-slider{
-    width: 600px;
+    width: 500px; /* original 500px */
     height: 500px;
     position: relative;
     background-image: url('../img/Kiwi_top_green_1.jpg');
@@ -15,7 +15,7 @@
 
 .product-images{
     position: absolute;
-    bottom: 20px;
+    bottom: -20px; /* original 20px */
     left: 50%;
     transform: translateX(-50%);
     width: 90%;
@@ -47,7 +47,7 @@
 }
 
 .details{
-    width: 40%;
+    width: 40%; /* original 50% */
 }
 
 .details .product-brand{
