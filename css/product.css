@@ -31,8 +31,6 @@
     scroll-behavior: smooth; /*ADDED*/
 }
 
-/*************+ ADDED ********/
-
 .product-images::-webkit-scrollbar{
     display: none;
 }
