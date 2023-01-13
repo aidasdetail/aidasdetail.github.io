@@ -1,13 +1,13 @@
 .product-details{
     width: 100%;
-    padding: 60px 10vw;
+    padding: 50px 10vw; /* original 60px */
     display: flex;
     justify-content: space-between;
 }
 
 .image-slider{
-    width: 500px; /* original 500px */
-    height: auto; /* original 500px */
+    width: auto; /* original 500px */
+    height: 450px; /* original 500px */
     position: relative;
     background-image: url('../img/Kiwi_top_green_1.jpg');
     background-position: center; /* added */
@@ -50,7 +50,7 @@
 }
 
 .product-images img.arrow-left {
-    height: 30px;
+    height: 20px;
     position: absolute;
     left: 0px;
     bottom: 30px;
