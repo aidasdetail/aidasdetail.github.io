@@ -26,7 +26,29 @@
     height: 100px;
     grid-gap: 10px;
     padding: 10px;
+    display: flex;  /*ADDED*/
+    overflow-x: auto; /*ADDED*/
+    scroll-behavior: smooth; /*ADDED*/
 }
+
+.product-images::-webkit-scrollbar{
+    display: none;
+}
+
+/*************+ ADDED 
+.product-container{
+    padding: 0 10vw;
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+
+.product-container::-webkit-scrollbar{
+    display: none;
+}
+
+*******************/
+
 
 .product-images img{
     width: 100%;
