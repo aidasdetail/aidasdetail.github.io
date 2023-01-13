@@ -6,7 +6,7 @@
 }
 
 .image-slider{
-    width: auto; /* original 500px */
+    width: 550px; /* original 500px */
     height: auto; /* original 500px */
     max-height: 500px;
     position: relative;
