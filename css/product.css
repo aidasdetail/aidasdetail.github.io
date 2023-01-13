@@ -9,7 +9,6 @@
     width: 500px;
     height: 500px;
     display: flex;
-    text-align: center; /* added */
     background-image: url('../img/Kiwi_top_green_1.jpg');
     background-size: cover;
 }
