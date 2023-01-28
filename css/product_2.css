@@ -64,6 +64,7 @@
 .details .product-brand{
     text-transform: capitalize;
     font-size: 30px;
+    padding-top: 30px; /* added */
 }
 
 .details .product-short-des{
