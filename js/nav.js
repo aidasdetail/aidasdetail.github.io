@@ -9,8 +9,8 @@
                 <input type="text" class="search-box" placeholder="search brand, product">
                 <button class="search-btn">search</button>
             </div>
-            <a href="#"><img src="img/wish_list_transp.png" alt=""></a>
-            <a href="#"><img src="img/wish_list_transp.png" alt=""></a>
+            <!--a href="#"><img src="img/wish_list_transp.png" alt=""></a>
+            <a href="#"><img src="img/wish_list_transp.png" alt=""></a> -->
         </div>
     </div>
     <ul class="links-container">
