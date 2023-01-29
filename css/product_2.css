@@ -1,34 +1,42 @@
 .product-details{
     width: 100%;
-    padding: 60px 10vw;
+    padding: 35px 8vw; /* original 60px */
     display: flex;
     justify-content: space-between;
 }
 
 .image-slider{
-    width: 500px;
-    height: 500px;
+    width: 550px; /* original 500px */
+    height: auto; /* original 500px */
+    max-height: 500px;
     position: relative;
     background-image: url('../img/Kiwi_top_green_1.jpg');
-    background-size: cover;
+    background-position: center; /* added */
+    background-repeat: no-repeat; /* added */
+    background-size: 500px; /* original cover   500px + 700  and background 500*/
 }
 
-/* ADDED */
-.product-images-container{
-    padding: 0 10vw;
-    display: flex;
-    overflow-x: auto;
-    scroll-behavior: smooth;
+/* .image-slider img{
+    border: none;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    height: 20px;
+    cursor: pointer;
 }
 
-.product-images-container::-webkit-scrollbar{
-    display: none;
+.image-slider img.left{
+    transform: rotate(180deg);
+    opacity: 0.8;
 }
-/* UNTIL HERE */
+.image-slider img.right{
+    opacity: 0.8;
+} */
 
 .product-images{
     position: absolute;
-    bottom: 20px;
+    top: 97%;
+    /*bottom: 20px; /* original 20px */  
     left: 50%;
     transform: translateX(-50%);
     width: 90%;
@@ -39,6 +47,13 @@
     height: 100px;
     grid-gap: 10px;
     padding: 10px;
+    display: flex;  /*ADDED*/
+    overflow-x: auto; /*ADDED*/
+    scroll-behavior: smooth; /*ADDED*/
+}
+
+.product-images::-webkit-scrollbar{
+    display: none;
 }
 
 .product-images img{
@@ -52,13 +67,8 @@
     opacity: 0.5;
 }
 
-/* ADDED */
-
-/* UNTIL HERE */
-
-
 .details{
-    width: 50%;
+    width: 45%; /* original 50% */
 }
 
 .details .product-brand{
@@ -96,6 +106,12 @@
     font-size: 25px; /* original 30px*/
     text-transform: uppercase;
     margin: 60px 0 10px;
+    font-weight: 300;
+}
+.product-subsub-heading{
+    font-size: 15px; /* original 30px*/
+    /*text-transform: uppercase;*/
+    margin: 10px 0 10px;
     font-weight: 300;
 }
 
@@ -140,17 +156,17 @@
 }
 
 .detail-des{
-    padding: 0 10vw;
+    margin-top: 70px; /* added */
+    padding: 0 10vw;  
     text-transform: capitalize;
 }
 
 .heading{
     font-size: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 30px; /* original 30px */
 }
 
 .des{
     color: #383838;
     line-height: 25px;
 }
-
