@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Summer_cardigan</title>
+    </head>
+    
+    <body>
+    
+    <nav class="navbar"></nav>
+    
+    <section class="product-details">
+    <div class="image-slider">
+    
+    <div class="product-images">
+     <img src="img/Summer_cardigan_1.jpg" class="active" alt="">
+     <img src="img/Summer_cardigan_2.jpg" alt="">
+       <img src="img/Summer_cardigan_3.jpg" alt="">
+       <img src="img/Summer_cardigan_4.jpg" alt="">
+       <img src="img/Summer_cardigan_5.jpg" alt="">
+       <img src="img/Summer_cardigan_6.jpg" alt="">
+       <img src="img/Colours.png" alt="">
+         </div>
+    </div>
+    
+    <div class="details">
+      <h2 class="product-brand">summer cardigan</h2>
+      <p class="product-short-des">Aida's detail</p>
+      <span class="product-price">55€</span>
+       <span class="product-discount">(FREE DELIVERY)</span>
+                           
+      <p class="product-sub-heading">available sizes</p>
+      <p class="product-subsub-heading">Check out the size chart! Do not hesitate to ask me for any doubts.</p>
+      <input type="radio" name="size" value="s" checked hidden id="s-size">
+      <label for="s-size" class="size-radio-btn check">s</label>
+      <input type="radio" name="size" value="m" hidden id="m-size">
+      <label for="m-size" class="size-radio-btn">m</label>
+      <input type="radio" name="size" value="l" hidden id="l-size">
+      <label for="l-size" class="size-radio-btn">l</label>
+      <input type="radio" name="size" value="xl" hidden id="xl-size">
+      <label for="xl-size" class="size-radio-btn">xl</label>
+      <!-- <input type="radio" name="size" value="xxl" hidden id="xxl-size">
+      <label for="xxl-size" class="size-radio-btn">xxl</label> -->
+      
+      <a href="https://aidasdetail.etsy.com/listing/1222192218/crochet-summer-cardigan-cardigan-crochet?click_key=79180f2c146c4a18ed5525b5a3424abafa1d8cc8%3A1222192218&click_sum=3dc13273&ref=shop_home_active_3&frs=1" target=”_blank”><button class="btn cart-btn">Buy in Etsy</button></a>
+      <!-- <button class="btn">add to wishlist</button> -->
+      </div>        
+      </section>
+      
+      <section class="detail-des">
+      <h2 class="heading">Description</h2>
+      <p class="des">Beautiful and original crochet cardigan made from soft yarn. Perfect for a walk in the park, a date, a summer night or a festival. It is an absolutely wonderful accessory to any wardrobe! <br><br>
+The cardigan is fully customizable with regards to size and colors, just let me know your favourite colour combination! And do not hesitate to text me if you have any doubts. <br><br>
+All items are handmade exclusively by me and with lots of love! So each item is unique. <br><br>
+I also make custom orders, so if you were thinking about something more specific or had another idea in mind, let me know! I would be happy to help you. <br><br>
+------------------- MATERIALS -------------------<br><br>
+The set is made of 100% Polyacrylic.<br><br>
+------------------- CARE -------------------<br><br>
+Hand wash and let air dry.<br><br>
+------------------- ANY QUESTIONS? -------------------<br><br>
+Please do not hesitate to shoot me a message! I will respond as quickly as I can, and I am always open to questions, comments and suggestions.</p>
+      </section>
+       
+  <!-- cards-container -->
+  <section class="product">
+  <h2 class="product-category">best selling</h2>
+  
+  <button class="pre-btn"><img src="img/arrow.png" alt=""></button>
+  <button class="nxt-btn"><img src="img/arrow.png" alt=""></button>
+  
+  <div class="product-container">
+  
+  <div class="product-card">
+  <div class="product-image">
+   
+    <span class="discount-tag">-5,7% off and FREE DELIVERY</span> 
+  <img src="img/Star_top_1.jpg" class="product-thumb" alt="">
+  <a href="PRODUCT_HTML_Summer_cardigan.html"><button class="card-btn">See item</button></a>
+  </div>
+  <div class="product-info">
+  <h2 class="product-brand">star top</h2>
+  <p class="product-short-des">Aida's detail</p> 
+    <span class="price">33€</span><span class="actual-price">35€</span>
+    </div>
+    </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Kiwi_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Kiwi_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">kiwi top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">43€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">-12,5% off and FREE DELIVERY</span> 
+      <img src="img/Granny_cardigan_1.jpeg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Granny_cardigan.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">granny cardigan</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">105€</span><span class="actual-price">120€</span>
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">-16% off and FREE DELIVERY</span> 
+      <img src="img/Festival_set_green_1.jpg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Festival_set_green.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">festival set</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">210€</span><span class="actual-price">250€</span>
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">-16% off and FREE DELIVERY</span> 
+      <img src="img/Festival_set_purple_1.jpg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Festival_set_purple.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">festival set</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">210€</span><span class="actual-price">250€</span>
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">-12,5% off and FREE DELIVERY</span> 
+      <img src="img/Love_cardigan_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Love_cardigan.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">love cardigan</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">105€</span><span class="actual-price">120€</span>
+        </div>
+        </div> 
+</div>
+</section> 
+<!-- cards-container -->
+        <section class="product">
+        <h2 class="product-category">cardigans</h2>
+        
+        <button class="pre-btn"><img src="img/arrow.png" alt=""></button>
+        <button class="nxt-btn"><img src="img/arrow.png" alt=""></button>
+        
+        <div class="product-container">
+        
+        <div class="product-card">
+        <div class="product-image">
+         
+          <span class="discount-tag">-12,5% off and FREE DELIVERY</span> 
+        <img src="img/Granny_cardigan_1.jpeg" class="product-thumb" alt="">
+        <a href="PRODUCT_HTML_Granny_cardigan.html"><button class="card-btn">See item</button></a>
+        </div>
+        <div class="product-info">
+        <h2 class="product-brand">granny cardigan</h2>
+        <p class="product-short-des">Aida's detail</p> 
+          <span class="price">105€</span><span class="actual-price">120€</span>
+          </div>
+          </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">-12,5% off and FREE DELIVERY</span> 
+      <img src="img/Love_cardigan_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Love_cardigan.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">love cardigan</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">105€</span><span class="actual-price">120€</span>
+        </div>
+        </div> 
+</div>
+</section> 
+<!-- cards-container -->
+        <section class="product">
+        <h2 class="product-category">crochet sets</h2>
+        
+        <button class="pre-btn"><img src="img/arrow.png" alt=""></button>
+        <button class="nxt-btn"><img src="img/arrow.png" alt=""></button>
+        
+        <div class="product-container">
+        
+        <div class="product-card">
+        <div class="product-image">
+         
+          <span class="discount-tag">-16% off and FREE DELIVERY</span> 
+        <img src="img/Festival_set_green_1.jpg" class="product-thumb" alt="">
+        <a href="PRODUCT_HTML_Festival_set_green.html"><button class="card-btn">See item</button></a>
+        </div>
+        <div class="product-info">
+        <h2 class="product-brand">festival set</h2>
+        <p class="product-short-des">Aida's detail</p> 
+          <span class="price">210€</span><span class="actual-price">250€</span>
+          </div>
+          </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">-16% off and FREE DELIVERY</span> 
+      <img src="img/Festival_set_purple_1.jpg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Festival_set_purple.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">festival set</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">210€</span><span class="actual-price">250€</span>
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">-16% off and FREE DELIVERY</span> 
+      <img src="img/Festival_set_white_1.jpg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Festival_set_white.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">festival set</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">210€</span><span class="actual-price">250€</span>
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">-16% off and FREE DELIVERY</span> 
+      <img src="img/Festival_set_black_1.jpg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Festival_set_black.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">festival set</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">210€</span><span class="actual-price">250€</span>
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Bubble_top_1.jpeg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Bubble_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">bubble top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">36€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+</div>
+</section> 
+<!-- cards-container -->
+        <section class="product">
+        <h2 class="product-category">crochet tops</h2>
+        
+        <button class="pre-btn"><img src="img/arrow.png" alt=""></button>
+        <button class="nxt-btn"><img src="img/arrow.png" alt=""></button>
+        
+        <div class="product-container">
+        
+        <div class="product-card">
+        <div class="product-image">
+         
+          <span class="discount-tag">-5,7% off and FREE DELIVERY</span> 
+        <img src="img/Star_top_1.jpg" class="product-thumb" alt="">
+        <a href="PRODUCT_HTML_Star_top.html"><button class="card-btn">See item</button></a>
+        </div>
+        <div class="product-info">
+        <h2 class="product-brand">star top</h2>
+        <p class="product-short-des">Aida's detail</p> 
+          <span class="price">33€</span><span class="actual-price">35€</span>
+          </div>
+          </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Kiwi_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Kiwi_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">kiwi top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">43€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Pineapple_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Pineapple_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">pineapple top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">43€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Granny_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Granny_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">granny top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">43€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Bubble_top_1.jpeg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Bubble_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">bubble top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">36€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Wrap_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Wrap_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">wrap top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">59€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Summer_cardigan_1.jpg" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Summer_cardigan.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">summer cardigan</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">55€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Rubi_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Rubi_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">rubi top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">36€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Cloud_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Cloud_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">cloud top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">28€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Iris_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Iris_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">iris top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">46€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Spooky_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Spooky_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">spooky top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">43€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Eros_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Eros_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">eros top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">36€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Dasy_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Dasy_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">dasy top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">43€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+      <div class="product-card">
+      <div class="product-image">
+       
+        <span class="discount-tag">FREE DELIVERY</span> 
+      <img src="img/Flower_top_1.JPEG" class="product-thumb" alt="">
+      <a href="PRODUCT_HTML_Flower_top.html"><button class="card-btn">See item</button></a>
+      </div>
+      <div class="product-info">
+      <h2 class="product-brand">flower top</h2>
+      <p class="product-short-des">Aida's detail</p> 
+        <span class="price">43€</span><!--span class="actual-price">xx€</span-->
+        </div>
+        </div> 
+</div>
+</section> <footer></footer>
+    
+    <script src="js/nav.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/home.js"></script>
+    <script src="js/product.js"></script>
+    
+    </body>
+    
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/product.css">
+    </html>
+    
