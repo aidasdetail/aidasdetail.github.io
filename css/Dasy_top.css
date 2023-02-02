@@ -11,7 +11,7 @@
   height: auto; /* original 500px */
   max-height: 500px;
   position: relative;
-  background-image: url(',../img/Dasy_top_1.JPEG');
+  background-image: url('../img/Dasy_top_1.JPEG');
   background-position: center; /* added */
   background-repeat: no-repeat; /* added */
   background-size: 500px; /* original cover   500px + 700  and background 500*/
