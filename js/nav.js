@@ -13,7 +13,7 @@
             <a href="#"><img src="img/wish_list_transp.png" alt=""></a>
         </div> -->
     </div>
-    <ul>
+    <ul class="nav">
         <li class="link-item"><a href="index.html" class="link">home</a></li>
         <li class="link-item"><a href="#" class="link">summer tops</a></li>
         <li class="link-item"><a href="#" class="link">festival sets</a></li>
