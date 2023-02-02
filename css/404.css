@@ -10,7 +10,7 @@
 }
 
 .four-0-four-image{
-    height: 50%;
+    width: 50%; /*original height: 80%*/
     display: block;
     margin: 60px auto;
 }
