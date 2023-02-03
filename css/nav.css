@@ -77,7 +77,7 @@
 .links-container{
     width: 100%;
     display: flex;
-    top: -30px; /* added*/
+    bottom: 110%; /* added*/
     padding: 10px 10vw;
     justify-content: center;
     list-style: none;
