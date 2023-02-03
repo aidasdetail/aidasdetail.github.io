@@ -18,7 +18,7 @@
     padding: 5px 10vw; /*original: 10px 10vw*/
     display: flex;
     justify-content: space-between;
-    list-style: none; /*added because of the menu home,etc*/
+    /*list-style: none; /*added because of the menu home,etc*/
 }
 
 .brand-logo{
@@ -78,7 +78,7 @@
 .links-container{
     width: 100%;
     display: flex;
-    padding: 10px 10vw;
+    /*padding: 10px 10vw;*/
     justify-content: center;
     list-style: none;
     /*border-top: 1px solid #d1d1d1;*/ 
