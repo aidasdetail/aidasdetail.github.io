@@ -79,7 +79,7 @@
     display: flex;
     top: -110%; /* added*/
     position:relative; /* added*/
-    padding: 10px 10vw;
+    /*padding: 10px 10vw;*/
     justify-content: center;
     list-style: none;
     /*border-top: 1px solid #d1d1d1;*/ 
