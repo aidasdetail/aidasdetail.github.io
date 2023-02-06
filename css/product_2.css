@@ -2,7 +2,7 @@
 
 .product{
     position: relative;
-    overflow: hidden;
+    /*overflow: hidden;*/
     padding: 20px 20px;
 }
 
