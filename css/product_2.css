@@ -19,11 +19,16 @@
     display: flex;
     overflow-x: auto;
     scroll-behavior: smooth;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
 }
 
+/*
 .product-container::-webkit-scrollbar{
     display: none;
 }
+*/
 
 .product-card{
     flex: 0 0 auto;
@@ -112,6 +117,7 @@
     text-decoration: line-through;
 }
 
+/*
 .pre-btn, .nxt-btn{
     border: none;
     width: 10vw;
@@ -143,6 +149,8 @@
 .pre-btn:hover img, .nxt-btn:hover img{
     opacity: 1;
 }
+*/
+
 
 /* collection */
 
@@ -163,6 +171,3 @@
 
 
 
-display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
