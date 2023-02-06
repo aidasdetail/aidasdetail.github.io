@@ -15,7 +15,7 @@
 }
 
 .nav{
-    padding: 5px 10vw; /*original: 10px 10vw*/
+    padding: 10px 10vw; /*original: 10px 10vw*/
     display: flex;
     justify-content: space-between;
 }
@@ -77,8 +77,6 @@
 .links-container{
     width: 100%;
     display: flex;
-    /*top: -110%; added*/
-    /*position:relative; /* added*/
     padding: 10px 10vw;
     justify-content: center;
     list-style: none;
