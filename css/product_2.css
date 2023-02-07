@@ -16,7 +16,7 @@
 
 .product-container{
     padding: 0 10vw;
-    position: relative;
+    position: relative; /* added */
     /*display: flex;*/
     /*overflow-x: auto;*/
     /*scroll-behavior: smooth;*/
