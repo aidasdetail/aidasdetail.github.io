@@ -26,12 +26,6 @@
     grid-gap: 10px;
 }
 
-/*
-.product-container::-webkit-scrollbar{
-    display: none;
-}
-*/
-
 .product-card{
     flex: 0 0 auto;
     width: 250px;
