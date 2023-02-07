@@ -16,7 +16,9 @@
 
 .product-container{
     padding: 0 10vw;
-    position: relative; /* added */
+    left: 20px;
+    right: 20px;
+    position: absolute; /* added */
     /*display: flex;*/
     /*overflow-x: auto;*/
     /*scroll-behavior: smooth;*/
@@ -151,24 +153,5 @@
     opacity: 1;
 }
 */
-
-
-/* collection */
-
-.collection-container{
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
-    padding: 40px; /*added*/
-}
-
-
-/*.collection:nth-child(3){
-    grid-column: span 2;
-    margin-bottom: 10px;
-}*/
-
-
 
 
