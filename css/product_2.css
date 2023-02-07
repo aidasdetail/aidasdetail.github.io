@@ -16,8 +16,8 @@
 }
 
 .product-container{
-    padding: 0;
-    left: -35px;
+    padding: 0 10vw;
+    /*left: -35px; */
     position: relative; /* added */
     /*display: flex;*/
     /*overflow-x: auto;*/
