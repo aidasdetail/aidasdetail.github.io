@@ -1,9 +1,17 @@
 /* product*/
+/*
+.product{
+    position: relative;
+    overflow-x: hidden;
+    padding: 20px 10px;
+} */
 
 .product{
     position: relative;
     overflow-x: hidden;
     padding: 20px 10px;
+    width: 100%;
+    display: flex;
 }
 
 .product-category{
