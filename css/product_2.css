@@ -18,7 +18,7 @@
     padding: 0 10vw;
     left: 20px;
     right: 20px;
-    position: absolute; /* added */
+    position: relative; /* added */
     /*display: flex;*/
     /*overflow-x: auto;*/
     /*scroll-behavior: smooth;*/
