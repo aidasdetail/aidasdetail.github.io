@@ -20,7 +20,7 @@
     /*left: -35px; */
     position: relative; /* added */
     /*display: flex;*/
-    /*overflow-x: auto;*/
+    overflow-x: hidden;
     /*scroll-behavior: smooth;*/
     display: grid;
     grid-template-columns: repeat(4, 1fr);
