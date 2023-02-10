@@ -6,6 +6,7 @@
     height: calc(100vh - 240px); /*it was -120px for full page header*/
     background-image: url('../img/Welcome_img.png');
     background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
