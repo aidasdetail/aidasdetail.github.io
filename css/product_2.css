@@ -56,7 +56,7 @@
     color: #ff7d7d;
     right: 10px;
     top: 10px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
 }
 
 .card-btn{
