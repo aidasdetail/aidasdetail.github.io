@@ -1,5 +1,6 @@
 footer{
     position: absolute; /* relative*/
+    bottom: 0; /* added*/
     width: 100%;
     margin: 0; 
     padding: 40px 10vw;
