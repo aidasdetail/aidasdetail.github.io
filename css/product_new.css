@@ -71,7 +71,7 @@ img{
 }
 .product-content{
     background: var(--gray);
-    padding: 3rem 0.5rem 2rem 0.5rem;
+    padding: 0; /*3rem 0.5rem 2rem 0.5rem*/
     cursor: pointer;
 }
 .product-img{
