@@ -5,8 +5,8 @@ footer{
     height: 600px; /* added */
     width: 100%;
     margin: 0; 
-    /*padding: 40px 10vw;
-    padding-bottom: 80px;*/
+    padding: 40px 10vw;
+    padding-bottom: 80px;
     background: #383838;
 }
 
