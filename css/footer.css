@@ -1,16 +1,4 @@
 
-/*footer{
-    position: absolute; /* relative
-    bottom: 0; /* added
-    left: 0; /* added
-    height: 640px; /* added 
-    width: 100%;
-    margin: 0; 
-    padding: 40px 10vw;
-    padding-bottom: 80px;
-    background: #383838;
-} */
-
 footer{
     position: relative; /* relative*/
     width: 100%;
