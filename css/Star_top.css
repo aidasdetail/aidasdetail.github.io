@@ -112,7 +112,7 @@
   .product-subsub-heading{
   font-size: 15px; /* original 30px*/
   /*text-transform: uppercase;*/
-  margin: 10px 0 10px;
+  margin: 5px 0 5px; /* original 30px*/
   font-weight: 300;
   }
   
